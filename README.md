@@ -10,9 +10,9 @@ These guides are intended as concise technical references for configuring indivi
 |---|---|---|
 | LAME | MP3 | [LAME with Exact Audio Copy](guides/lame-eac.md) |
 | FLAC | FLAC | [FLAC with Exact Audio Copy](guides/flac-eac.md) |
-| AAC | AAC / M4A | Coming soon |
-| ALAC | Apple Lossless | Coming soon |
-| Opus | Opus | Coming soon |
+| AAC | AAC / M4A | [AAC with Exact Audio Copy](guides/aac-eac.md) |
+| ALAC | Apple Lossless | [ALAC with Exact Audio Copy](guides/alac-eac.md) |
+| Opus | Opus | [Opus with Exact Audio Copy](guides/opus-eac.md) |
 | AC-3 | Dolby Digital | Coming soon |
 | DTS | DTS | Coming soon |
 | DTS-CD | DTS in CD audio | Coming soon |
